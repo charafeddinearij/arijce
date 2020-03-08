@@ -1,0 +1,66 @@
+body {
+    background-color: black;
+    font-family: Times New Roman;
+    color: black;
+}
+
+a{
+    text-decoration: none;
+    color: hotpink;
+}
+ 
+#space{
+    background-color: black;
+}
+#container{
+    background-color: white;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#header {
+    background-color: black;
+    color: white;
+    text-align:center;
+    padding: 10px;
+}
+
+#content{
+    padding: 10px;
+    background-color: black;
+}
+
+#nav{
+    width: 180px;
+    float: left;
+}
+
+.selected{
+    font-weight: bold;
+}
+
+#main{
+    width: 600px;
+    float: right;
+}
+
+#footer{
+    clear: both;
+    padding: 10px;
+    background-color: black;
+    color: white;
+}
+
+#example{
+    color: white;
+}
+
+#footer1{
+    clear: both;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    text-align-last: center;
+}
+
