@@ -8,7 +8,7 @@
 body {
     background color: #00000;
     font-family: Times New Roman;
-    color: black;
+    color: white;
 }
 
 a{
@@ -36,7 +36,7 @@ a{
 
 .selected{
     font-weight: bold;
-    color: lavender;
+    color: white;
 }
 
 #main{
@@ -52,7 +52,7 @@ a{
 }
 
 #example{
-    color: #ffffff;
+    color: #fff000;
 }
 
 #footer1{
