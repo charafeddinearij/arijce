@@ -1,7 +1,7 @@
 body {
     background-color: black;
     font-family: Times New Roman;
-    color: white;
+    color: black;
 }
 
 a{
@@ -9,8 +9,11 @@ a{
     color: hotpink;
 }
  
-#container{
+#space{
     background-color: black;
+}
+#container{
+    background-color: white;
     width: 800px;
     margin-left: auto;
     margin-right: auto;
@@ -23,14 +26,9 @@ a{
     padding: 10px;
 }
 
-#space {
-    background-color: black;
-    
-
 #content{
     padding: 10px;
     background-color: black;
-    color: white;
 }
 
 #nav{
