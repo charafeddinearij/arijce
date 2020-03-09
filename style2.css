@@ -63,7 +63,15 @@ a{
     padding: 10px;
     background-color: black;
     color: white;
-    text-align-last: center;
+    text-align-last: right;
+}
+
+#footer2 {
+    clear: both;
+    padding: 10px;
+    background-color: #00000;
+    color: white;
+    text-align-last: left;
 }
 
 
