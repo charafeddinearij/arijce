@@ -1,14 +1,7 @@
-#header {
-    background-color: black;
-    color: #ffffff;
-    text-align: center;
-    padding: 10px;
-}
-
 body {
-    background color: #00000;
+    background-color: black;
     font-family: Times New Roman;
-    color: white;
+    color: black;
 }
 
 a{
@@ -16,20 +9,26 @@ a{
     color: hotpink;
 }
  
-#margin {
+#space{
     background-color: black;
 }
 #container{
-    background-color: black;
-    color: white;
+    background-color: white;
     width: 800px;
     margin-left: auto;
     margin-right: auto;
 }
 
-#content{
-    background-image: image(/Users/arijcharaf-eddine/Desktop/Screen Shot 2020-03-07 at 20.11.48.png)
+#header {
+    background-color: black;
+    color: white;
+    text-align:center;
     padding: 10px;
+}
+
+#content{
+    padding: 10px;
+    background-color: black;
 }
 
 #nav{
@@ -49,19 +48,19 @@ a{
 #footer{
     clear: both;
     padding: 10px;
-    background-color: #00000;
+    background-color: black;
     color: white;
 }
 
 #example{
-    color: #fff000;
+    color: white;
 }
 
 #footer1{
     clear: both;
     padding: 10px;
-    background-color: #00000;
+    background-color: black;
     color: white;
-    text-align-last: right;
+    text-align-last: center;
 }
 
