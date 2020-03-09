@@ -1,12 +1,5 @@
-#header {
-    background-color: black;
-    color: #ffffff;
-    text-align: center;
-    padding: 10px;
-}
-
 body {
-    background color: #00000;
+    background-color: black;
     font-family: Times New Roman;
     color: white;
 }
@@ -18,15 +11,26 @@ a{
  
 #container{
     background-color: black;
-    color: white;
     width: 800px;
     margin-left: auto;
     margin-right: auto;
 }
 
-#content{
-    background-image: image(/Users/arijcharaf-eddine/Desktop/Screen Shot 2020-03-07 at 20.11.48.png)
+#header {
+    background-color: black;
+    color: white;
+    text-align:center;
     padding: 10px;
+}
+
+#space {
+    background-color: black;
+    
+
+#content{
+    padding: 10px;
+    background-color: black;
+    color: white;
 }
 
 #nav{
@@ -36,7 +40,6 @@ a{
 
 .selected{
     font-weight: bold;
-    color: white;
 }
 
 #main{
@@ -47,7 +50,7 @@ a{
 #footer{
     clear: both;
     padding: 10px;
-    background-color: #00000;
+    background-color: black;
     color: white;
 }
 
@@ -58,9 +61,8 @@ a{
 #footer1{
     clear: both;
     padding: 10px;
-    background-color: #00000;
+    background-color: black;
     color: white;
-    text-align-last: right;
+    text-align-last: center;
 }
-
 
